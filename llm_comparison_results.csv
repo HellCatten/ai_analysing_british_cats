@@ -1,0 +1,211 @@
+filename,model_1_response,model_2_response
+brit1.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e595-7a4272ce3cea689f3915d8f6;2b8d4955-ce85-4738-bbcc-268a62203130)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e596-74977a7e62abf74905444b6a;91544cc8-f358-47c5-8987-4b4803f74238)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+brit10.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e596-1afa072b3128ac674c40d5e5;ddb9e35f-5733-46e0-99ea-9bcad99cdc90)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e596-1069a10361085ed95b9a0086;07b22299-70ee-40d5-81ea-590341217dc5)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+brit2.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e597-3b74f53532b874952189edd9;42c32cef-9152-49b2-b251-7153c0940752)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e597-4a8d2f7608cd1ebd1cf6c41d;f3b365d9-708d-4e8e-bad7-3d3ed0031d1a)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+brit3.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e597-2f206d4d2fd6b7dc1ec0b1e2;bd92f119-d208-46c8-a425-9841dad73077)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e598-1bb058e2369447c748db24d2;6def6420-b185-4428-b90a-dd2dfbd120e9)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+brit4.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e598-1f520b6975b151152a19c8ac;29e9ca3b-fc37-4c64-836f-d09025ec3b8f)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e598-32d4040069002a5c0a1c3299;1414bdea-687f-4df7-8185-f62581b734b6)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+brit5.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e599-6591f054063a239039349fd6;ddd2234e-322f-4257-a0c1-c064b3b5f674)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e599-70683cbe58bb77303f5ef70f;97fcb565-6b2d-4d8f-99d9-996158bec3ba)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+brit6.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e599-4460943227fcea664f99d9e6;0688061e-0489-429c-9106-ca01e45af39e)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e59a-279f6a3d2eded0b82ab56bbc;477c88cf-791f-4e73-88cc-682b5a9052fe)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+brit7.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e59a-7227f49c6db54cd84dfa5d4e;50d3a274-4a6a-417f-8a9d-8eea9e11c412)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e59a-62e2623d376c864924e8c0c1;2cf53071-e297-4448-8e31-bea77805e85b)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+brit8.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e59a-4a7fe5b13290098745eff9c5;f868d004-d04e-4b0d-a308-139a9ec9f87d)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e59b-6bd1d907235e8f1c062193ac;87b802cc-adde-408c-8290-f9a20800baae)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+brit9.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e59b-1db141be430b5eda0f7894bf;8beb6ed7-cafe-4a00-820a-22401ad8fadb)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e59b-0d0942cd2e832a952acd5c96;eca72b88-77f3-4973-a469-120730371281)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+brithard1.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e59b-409418995630bb4a56449e58;51fbe939-0709-404e-9d25-cef8ddf75df6)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e59c-4490328d5b0c29976824acf4;179a3dab-4ecf-4a4b-bb2e-bdbcf7c0dd8f)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+brithard2.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e59c-280d1f75206d1d8e036fe8ae;fc590228-9262-41b9-99b6-ec963c6ed6ac)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e59c-7db6c29b2f7f687609f1b9e6;b28f4903-6bb9-4a95-9015-4bdf91b98ec0)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+brithard3.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e59c-165267ac4c1c217831b1e8fa;a0a10de3-ef32-4213-83b9-d65652ca4d1d)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e59d-0051a98063762f4b1f1823b3;4453a2e3-8fe9-4519-8ec9-602ca139a753)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+brithard4.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e59d-2296ca8b4904a1e87663b05c;2e31bd42-bc79-46cc-bde2-30ef5bce1ae9)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e59d-0f2e55c315a4dc440be9617e;58ce8229-4ba2-4b6f-97c6-a8a7d7713d4e)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+random1.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e59d-6ffe7a5332a9dd8e20f0ddfb;b2fd12c0-f031-4b53-8174-08ca6e99125f)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e59e-68c54b806c4a00301c1e49f4;c6300cc1-05fd-465e-a90d-d4656ef09f2e)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+random2.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e59e-67fffbf31b9998852c1a7b71;11f2cfce-aaa7-427e-adf8-0419f42ed0ec)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e59e-0b4a17ac15a467a90f24dcdf;2f1ddd86-6311-4fc2-ab2f-7f6e75647e38)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+random3.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e59f-2f5b61853744883f2589002b;67a95b63-c913-4368-86da-27143750225c)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e59f-37b863c2554e51d90dbc6473;406cd98c-7204-48d3-a93d-bbad51304e82)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+random4.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e59f-0426e7404e376d490538c938;efda31f7-5ae8-4907-808b-4939e7cb982b)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e59f-772d26d22213495c7fe7dc5e;e8b9751f-1e2c-4424-8d3d-c5c5febbf8bf)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+random5.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e5a0-40bf722167b04ec146169022;40fe4d49-da52-4b89-b231-e69be11c7e04)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e5a0-3a7ac91f5eef0f432837db3c;3c7feda2-c0eb-4239-9a31-0a514888dd20)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+random6.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e5a0-518de61328fab03200ca6445;f50cfd32-c730-4e50-92a1-4f9b8642c1bd)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e5a0-39f86822526e6e1c27784e87;54d872b3-255f-41f7-baa0-f164ae3c1f54)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+rus1.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e5a1-07b980ab1547bfb23b00bf80;54be3fa1-1cc6-4ff3-aced-877c8f743ac2)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e5a1-004e0fb2316106e242759d0f;6c1c057a-f665-4a9a-84ea-c421b1ef2336)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+rus2.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e5a1-7db1f0f77ae472801bd8f96c;eaa056b3-cb1d-408e-bca2-c81cedcb0f3d)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e5a1-3dcbb3537fdf3d1f400ccf9e;f44feb74-ad01-442d-a81d-8a488fb1d622)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+rus3.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e5a2-5cfb737a45d4fdd2249e4c90;6ad50d53-a2eb-4723-864e-526bfa08140e)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e5a2-66d4d088480e2bd2698bd56c;756d8bb2-039a-4116-9b40-231e5ab2ff58)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+rus4.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e5a2-1451363b28510fae367e0509;3bd90107-7c1c-40e6-ac7c-c9212b2c9c17)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e5a2-6131091c0b1fe4c7123e2b88;cc61f4dc-f6d1-4fad-a345-d6a96a7d0554)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+rus5.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e5a3-61f62dc46ee2fa136a7344c5;7d984801-2211-47f2-b08e-a11230898c78)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e5a3-4e89bdde75bc65747eb4046b;44d25405-4d7c-4a9c-b93f-59f3f66cacac)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+scot1.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e5a3-612f7c9a19261bcb4279559a;77a3844c-1485-4db5-861d-abe102dc0ccc)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e5a3-165f42ec1728b13e034d82d4;69238158-9270-4857-8f37-fee18fb43bfa)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+scot2.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e5a3-76b9daa8130cdcf70bcf6b0a;ada533a4-08e9-467a-8f6e-4ec528b92f0c)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e5a4-081767d04ecb39ba0f3c93c8;cf264f5f-10e7-426a-b21d-b8517fcc7d77)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+scot3.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e5a4-608b9ba27fbb050510c4e221;5c8719c4-7b49-4401-b482-c2ca7f6ca9ef)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e5a4-2782c93b6689f1271b24dae7;fb09596a-5957-4464-8e77-1b40fec5208b)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+scot4.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e5a5-638bd13838fc7cd83a354f93;9f838cf8-11a8-475c-918b-d845ff91850d)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e5a5-4fce56a169c40c5b6aceaf56;0adb3df5-8a25-4d8a-9044-df0b16987609)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"
+scot5.jpg,"Error: BadRequestError, (Request ID: Root=1-6900e5a5-7263d28a35de000040b1ed4e;c06789c6-6e00-42f2-b235-5d208ae4c4fb)
+
+Bad request:
+{'message': ""The requested model 'lmms-lab/LLaVA-OneVision-1.5-8B-Instruct' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}","Error: BadRequestError, (Request ID: Root=1-6900e5a6-25c2e02848b1a7717009f33e;c8f25046-688d-405c-b91e-55c3355f82d9)
+
+Bad request:
+{'message': ""The requested model 'PsiPi/NousResearch_Nous-Hermes-2-Vision-GGUF' is not supported by any provider you have enabled."", 'type': 'invalid_request_error', 'param': 'model', 'code': 'model_not_supported'}"

@@ -1,0 +1,14 @@
+# Основные библиотеки для анализа данных
+pandas
+tqdm
+
+# Библиотека для локального запуска LLaVA
+llama-cpp-python
+
+# Библиотеки для API-доступа
+google-generativeai
+replicate
+python-dotenv
+
+# Для работы с изображениями
+Pillow
