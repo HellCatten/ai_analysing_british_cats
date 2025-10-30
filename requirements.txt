@@ -3,7 +3,7 @@ pandas
 tqdm
 
 # Библиотека для локального запуска LLaVA
-llama-cpp-python
+llama-cpp-python -C cmake.args="-DGGML_BLAS=ON;-DGGML_BLAS_VENDOR=OpenBLAS"
 
 # Библиотеки для API-доступа
 google-generativeai
