@@ -1,0 +1,39 @@
+filename,gigachat_response
+brithard1.jpg,"Нет
+
+- Округлая голова: отсутствует
+- Короткая плотная шерсть: присутствует, но недостаточно характерна
+- Большие круглые глаза: отсутствуют
+- Плотное телосложение: присутствует, но не типично выражено
+- Спокойный характер: невозможно определить по фотографии"
+brithard2.jpg,"нет
+- Округлая голова: отсутствует
+- Плотная шерсть: отсутствует
+- Короткая мордочка: отсутствует
+- Круглые глаза: отсутствуют"
+brithard3.jpg,"Нет
+
+- Короткая плотная шерсть: отсутствует
+- Округлая голова: форма головы другая
+- Большие круглые глаза: глаза узкие и миндалевидные
+- Плотное телосложение: тело стройнее и длиннее"
+brithard4.jpg,"Нет
+
+- **Форма головы**: Не характерна округлая голова британской короткошерстной кошки (плоский профиль).
+- **Цвет шерсти**: Шерсть не типичного для британской короткошерстной однотонного окраса.
+- **Размер тела**: Кошка выглядит значительно меньше и стройнее британских короткошерстных кошек."
+random1.jpg,"нет
+
+Признаки:
+- округлая голова
+- плотное телосложение
+- короткая плюшевая шерсть
+- круглые глаза
+- спокойный характер (если бы была британской короткошерстной)
+
+На фотографии представлена кошка другой породы — вероятно, персидская или экзотическая короткошёрстная."
+random2.jpg,"Error: HTTPError, Details: 422 Client Error: Unprocessable Entity for url: https://gigachat.devices.sberbank.ru/api/v1/chat/completions"
+random3.jpg,"Error: HTTPError, Details: 402 Client Error: Payment Required for url: https://gigachat.devices.sberbank.ru/api/v1/chat/completions"
+random4.jpg,"Error: HTTPError, Details: 402 Client Error: Payment Required for url: https://gigachat.devices.sberbank.ru/api/v1/chat/completions"
+random5.jpg,"Error: HTTPError, Details: 402 Client Error: Payment Required for url: https://gigachat.devices.sberbank.ru/api/v1/chat/completions"
+random6.jpg,"Error: HTTPError, Details: 402 Client Error: Payment Required for url: https://gigachat.devices.sberbank.ru/api/v1/chat/completions"
