@@ -1,0 +1,129 @@
+filename,llava_13b_response
+brit1.jpg,"1. Verdict (Yes/No): No
+2. Key Features: Coat, color, build
+3. Alternative Breed: Russian Blue"
+brit10.jpg,"**1. Verdict: Yes**
+**2. Key Features: Coat, build, face shape
+**3. Alternative Breed: Maine Coon"
+brit2.jpg,"**1. Verdict: No**
+
+**2. Key Features:** long whiskers, almond-shaped eyes, sleek body, puffy tail
+
+**3. Alternative Breed: Maine Coon**"
+brit3.jpg,**1. Verdict (Yes/No):** No
+brit4.jpg,"**1. Verdict (Yes/No):** Yes
+
+**2. Key Features:** British Shorthair, round head, dense coat, broad face
+
+**3. Alternative Breed:** -"
+brit5.jpg,"**1. Verdict: Yes**
+
+**2. Key Features:** head shape, ears, coat
+
+**3. Alternative Breed: -**"
+brit6.jpg,"**1. Verdict: Yes**
+
+**2. Key Features:** British, round head, dense coat
+
+**3. Alternative Breed: -**"
+brit7.jpg,"**1. Verdict (Yes/No):** Yes
+
+**2. Key Features:** British Shorthair, round head, dense coat, blue eyes
+
+**3. Alternative Breed (if applicable):** Russian Blue"
+brit8.jpg,"1. Verdict: Yes
+2. Key Features: Coat, body type, color
+3. Alternative Breed: -"
+brit9.jpg,"**1. Verdict: Yes**
+
+**2. Key Features:** British Shorthair, round head, dense coat, blue eyes
+
+**3. Alternative Breed: None**"
+brithard1.jpg,"1. Verdict: No
+2. Key Features: tail, ear shape, fur length, color
+3. Alternative Breed: Persian"
+brithard2.jpg,"**1. Verdict (Yes/No):** No
+
+**2. Key Features:** Coat, eyes color, ears shape
+
+**3. Alternative Breed:** British Longhair"
+brithard3.jpg,"**1. Verdict (Yes/No):** No
+
+**2. Key Features:** coat, color, build
+
+**3. Alternative Breed:** British Longhair"
+brithard4.jpg,"**1. Verdict: Yes**
+
+**2. Key Features:** coat, build, face shape
+
+**3. Alternative Breed: -**"
+random1.jpg,**1. Verdict (Yes/No):** No
+random2.jpg,**1. Verdict (Yes/No):** Yes
+random3.jpg,"**1. Verdict (Yes/No):** No
+
+**2. Key Features:** coat, color, build, eyes color
+
+**3. Alternative Breed:** Ragdoll"
+random4.jpg,"**1. Verdict (Yes/No):** Yes
+
+**2. Key Features:** coat, face shape, build
+
+**3. Alternative Breed (if applicable):** -"
+random5.jpg,"**1. Verdict (Yes/No):** Yes
+
+**2. Key Features:** head shape, coat, build
+
+**3. Alternative Breed (if applicable):** -"
+random6.jpg,"**1. Verdict (Yes/No):** Yes
+
+**2. Key Features:** British Shorthair, round head, dense coat, wide face, stocky build
+
+**3. Alternative Breed:** -"
+rus1.jpg,"**1. Verdict (Yes/No):** Yes
+
+**2. Key Features:** head shape, coat, color, build
+
+**3. Alternative Breed (if applicable):** None"
+rus2.jpg,"**1. Verdict (Yes/No):** Yes
+
+**2. Key Features:** coat, build, face shape
+
+**3. Alternative Breed (if applicable):** -"
+rus3.jpg,"**1. Verdict: Yes**
+**2. Key Features: Head shape, coat, color**
+**3. Alternative Breed: -**"
+rus4.jpg,"**1. Verdict (Yes/No):** Yes
+
+**2. Key Features:** [head shape, coat, build]
+
+**3. Alternative Breed (if applicable):** -"
+rus5.jpg,"**1. Verdict (Yes/No):** No
+
+**2. Key Features:** head shape, coat, color
+
+**3. Alternative Breed:** Ragdoll"
+scot1.jpg,"**1. Verdict: Yes**
+
+**2. Key Features:** British, round head, dense coat, blue eyes
+
+**3. Alternative Breed: None - This is a British Shorthair cat."
+scot2.jpg,"**1. Verdict: No**
+
+**2. Key Features: Coat, color, build, face shape**
+
+**3. Alternative Breed: American Shorthair**"
+scot3.jpg,"**1. Verdict: Yes**
+
+**2. Key Features:** British Shorthair, rounded ears, dense coat, large round eyes
+
+**3. Alternative Breed: -**"
+scot4.jpg,"**1. Verdict (Yes/No): Yes**
+
+**2. Key Features:** British Shorthair, dense coat, round face, broad chest
+
+**3. Alternative Breed: N/A**"
+scot5.jpg,"**1. Verdict: No**
+
+**2. Key Features:** coat, color, build
+
+**3. Alternative Breed:** British Longhair"
